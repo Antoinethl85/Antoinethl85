@@ -1,5 +1,5 @@
   
-### Hi there
+### Hi there, I'm Antoine THIELIN
 
 - 🔭 I’m currently studying at Efrei Paris
 - 🌱 I’m in BAC+4 studying market finance.
