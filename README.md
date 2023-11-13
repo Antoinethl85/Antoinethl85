@@ -1,12 +1,10 @@
   
-### Hi there, I'm Antoine THIELIN
+### Hi there, I'm Antoine
 
-- 📚 I’m currently studying at Efrei Paris
-- 🌱 I’m in BAC+4 studying market finance.
-- 👯 I’m looking to collaborate on blockchain and javascript development.
-- 🤔 I’m quite a neebie in blockchain developement but I improve every day.
-- 💬 Ask me about blockchain, basketball or even mathematical, I can answer you!
-- 📧 How to reach me: antoine85thl@gmail.com
+- 📚 I’m a software engineer in finance.
+- 👯 Looking to collaborate on blockchain and javascript development.
+- 🤔 Improving evryday!
+- 📧 You can reach me on Discord : 0x90210
 
 
 ### Languages and Tools:
